@@ -22,7 +22,6 @@ class DecisionEngineTest {
     private String segment2PersonalCode;
     private String segment3PersonalCode;
     private String underAgePersonalCode;
-    private String validAgePersonalCode;
     private String tooOldPersonalCode;
 
     @BeforeEach
